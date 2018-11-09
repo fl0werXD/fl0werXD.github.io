@@ -1,4 +1,4 @@
 # fl0werXD.github.io
 
-* [Verkefni 4.](Verkefni4/index.html)
+* [Verkefni 4.](verkefni4/index.html)
 * Verkefnin koma síðar ...
