@@ -1,0 +1,79 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: blue;
+}
+
+.container{
+    line-height: 2em;
+	max-width: 60em;
+    padding: 4em;
+    margin: 0 auto;
+    padding-bottom: 4px;
+}
+
+.col-II {
+	display: grid;
+	grid-template-columns: auto auto;
+}
+
+.col-III {
+	display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+}
+
+.logo {
+	font-size: 1.5em;
+}
+
+.beige {
+
+	text-align: center;
+	width: 100%;
+    background: linear-gradient(to top, #ee9ca7 0%, #ffdde1 100%);
+}
+
+.staerd {
+        height: 180vh;
+}
+
+fontlitur h1 {
+	color: rgb(7, 100, 207);
+    padding: 1em;
+}
+
+.blar {
+    color: blue;
+}
+
+.footercontainer {
+	color: white;
+	margin: 0 auto;
+    max-width: 54em;
+    padding: 2em;
+}
+
+.middle,
+.right {
+    line-height: 2em;
+    text-align: center;
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(255, 255, 255);
+}
+
+/* visited link */
+a:visited {
+    color: rgb(255, 0, 0);
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
