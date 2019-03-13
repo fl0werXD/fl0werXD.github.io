@@ -8,4 +8,4 @@
 
 
 * [Verkefni 2/3...](Vef2019/index.html)
-* [Verkefni 4] 
+* [Verkefni 4](file:///C:/Users/Einar/Desktop/heart-broken.svg)
